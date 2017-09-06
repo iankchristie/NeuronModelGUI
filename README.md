@@ -1,2 +1,2 @@
 # NeuronModelGUI
-![Interface](/Images/GUI)
+![Interface](Images/GUI.png)
